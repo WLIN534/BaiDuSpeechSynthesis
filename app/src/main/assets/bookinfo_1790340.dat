@@ -1,0 +1,111 @@
+<html>
+<head>
+<style>
+
+</style>
+</head>
+<body>
+<div class="STYLE2">
+<p class="STYLE1">4 机动车库<br />
+<br />
+4．1 一般规定</p>
+</div>
+<p class="STYLE2">4．1．1 机动车库应根据停放车辆的设计车型外廓尺寸进行设计。机动车设计车型的外廓尺寸可按表4．1．1取值。</p>
+<p class="STYLE2" align="center"><strong>表4．1．1 机动车设计车型的外廓尺寸</strong><br />
+</p>
+<p class="STYLE2" align="center">@mark0@</p>
+<p class="STYLE2" align="center"> <br />
+注:专用机动车库可以按所停放的机动车外廓尺寸进行设计。</p>
+<p class="STYLE2" align="left">4．1．2 机动车库应以小型车为计算当量进行停车当量的换算，各类车辆的换算当量系数应符合表4．1．2 的规定。</p>
+<p class="STYLE2" align="center"><strong>表4．1．2 机动车换算当量系数</strong></p>
+<table border="4" cellspacing="0" cellpadding="0" width="442" align="center">
+<tbody>
+<tr>
+<td class="STYLE2" height="43" width="80">车型</td>
+<td class="STYLE2" width="67">微型车</td>
+<td class="STYLE2" width="71">小型车</td>
+<td class="STYLE2" width="66">轻型车</td>
+<td class="STYLE2" width="68">中型车</td>
+<td class="STYLE2" width="76">大型车</td>
+</tr>
+<tr>
+<td class="STYLE2" height="45">换算系数</td>
+<td class="STYLE2">0．7</td>
+<td class="STYLE2">1．0</td>
+<td class="STYLE2">1．5</td>
+<td class="STYLE2">2．0</td>
+<td class="STYLE2">2．5</td>
+</tr>
+</tbody>
+</table>
+<p class="STYLE2">4．1．3 机动车最小转弯半径应符合表4．1．3 的规定。</p>
+<p class="STYLE2" align="center"><strong>表4．1．3 机动车最小转弯半径</strong></p>
+<table border="4" cellspacing="0" cellpadding="0" width="400" align="center">
+<tbody>
+<tr>
+<td class="STYLE2" height="40" width="194">车型</td>
+<td class="STYLE2" width="200">最小转弯半径r<sub>1</sub>（m）</td>
+</tr>
+<tr>
+<td class="STYLE2" height="33">微型车</td>
+<td class="STYLE2">4．50</td>
+</tr>
+<tr>
+<td class="STYLE2" height="33">小型车</td>
+<td class="STYLE2">6．00</td>
+</tr>
+<tr>
+<td class="STYLE2" height="36">轻型车</td>
+<td class="STYLE2">6．00～7．20</td>
+</tr>
+<tr>
+<td class="STYLE2" height="36">中型车</td>
+<td class="STYLE2">7．20～9．00</td>
+</tr>
+<tr>
+<td class="STYLE2" height="40">大型车</td>
+<td class="STYLE2">9．00～10．50</td>
+</tr>
+</tbody>
+</table>
+<p class="STYLE2">4．1．4 机动车的环形车道最小外半径（R<sub>0</sub>）和内半径（r<sub>0</sub>）的尺寸应按下列公式计算（图4．1．4）:</p>
+<p class="STYLE2" align="center"></p>
+<p class="STYLE2" align="center">@mark1@</p>
+<p class="STYLE2" align="left">式中：a—机动车长度；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;b—机动车宽度；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;d—前悬尺寸；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;e—后悬尺寸；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;L—轴距；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;m—后轮距；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;n—前轮距；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;r<sub>1</sub>—机动车最小转弯半径（按本规范表4．1．3取值）；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;R<sub>0</sub>—环形车道外半径；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;r<sub>0</sub>—环形车道内半径；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;R—机动车环行外半径；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;r—机动车环行内半径；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;W—环形车道最小净宽（按本规范表4．2．10-1取值）；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;χ—机动车环行时最外点至环道外边安全距离，宜大于或等于250mm，当两侧为连续障碍物时宜大于或等于500mm；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;y—机动车环行时最内点至环道内边安全距离，宜大于或等于250mm ，当两侧为连续障碍物时宜大于或等于500mm 。<br />
+<br />
+4．1．5 机动车之间以及机动车与墙、柱、护栏之间的最小净距应符合表4．1．5 的规定。</p>
+<p class="STYLE2" align="center"><strong>表4．1．5 机动车之间以及机动车与墙、柱、护栏之间最小净距</strong><br />
+@mark2@</p>
+<p class="STYLE2" align="left">注：1 纵向指机动车长度方向、横向指机动车宽度方向；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;2 净距指最近距离，当墙、柱外有突出物时，从其凸出部分外缘算起。<br />
+<br />
+4．1．6 按管理方式，机动车库宜设置值班室、管理办公室、控制室、休息室、储藏室、卫生间等辅助用房。控制室可独立设置或与其他管理用房合用，且宜设于机动车库中心或出入口附近。<br />
+<br />
+4．1．7 对于出入口及坡道与停车区域，每层交通流线应周转畅通，且应形成上行、下行连续不断的通路，并应防止上、下行车辆交叉。<br />
+<br />
+4．1．8 当机动车库采取天然采光时，天然采光系数不宜小于0.5％或其窗地面积比宜大于1：15，且车库及坡道应设有防眩光设施。<br />
+<br />
+4．1．9 四层及以上的多层机动车库或地下三层及以下机动车库应设置乘客电梯，电梯的服务半径不宜大于60m。<br />
+<br />
+4．1．10 机动车库内的标志和标线应符合下列规定：<br />
+&nbsp;&nbsp;&nbsp;&nbsp;1 应在每层出入口的显著部位设置标明楼层和行驶方向的标志；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;2 应在楼地面上用彩色线条标明行驶方向、用10cm～15cm宽线条标明停车位；<br />
+&nbsp;&nbsp;&nbsp;&nbsp;3 在各层柱间及通车道尽端，应设置停车区位的标志。<br />
+<br />
+4．1．11 设有道闸的机动车库，道闸应设置在车库出入口附近的平坡段上，并应留出方便驾驶员操作的空间。</p>
+</body>
+</html>
